@@ -4,4 +4,4 @@
 
 ## Experiencia
 
-    Aluna Unimar
+    Aluna Unimar 1º termo
