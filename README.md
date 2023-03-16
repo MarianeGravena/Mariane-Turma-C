@@ -1,7 +1,7 @@
 # Mariane
 
 ---
-# Dados Pessoais
+## Dados Pessoais
 
 CPF 123456789
 
@@ -13,4 +13,4 @@ Celular: 996665526
 
 ## Experiencia
 
-    Aluna Unimar 1º termo
+    Aluna Unimar ADS 1º termo
